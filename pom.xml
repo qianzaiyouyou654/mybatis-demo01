@@ -13,6 +13,7 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+<<<<<<< HEAD
     <dependencies>
         <dependency>
             <groupId>org.mybatis</groupId>
@@ -42,4 +43,6 @@
         </dependency>
     </dependencies>
 
+=======
+>>>>>>> 6f5014277f4090377d1b1f322093fa51b3eae791
 </project>
